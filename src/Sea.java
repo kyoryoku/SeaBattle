@@ -35,6 +35,7 @@ public class Sea {
 
     public void print (){
 
+
         for (int i = 0; i<size; i++){
             String tmp = "";
             for (int j = 0; j<size; j++){
